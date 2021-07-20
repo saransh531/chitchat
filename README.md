@@ -1,4 +1,2 @@
-# Unichat Application
-
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
-
+#ChitChat is a facebook messenger style web app with built in google authentication and media sharing. Login to the web app and add other registered users to chat rooms through their google accounts. 
+https://chitchatmessenger.netlify.app/chats
